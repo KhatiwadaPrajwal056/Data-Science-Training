@@ -1,0 +1,9 @@
+text,sentiment
+"The product is great and works perfectly!",positive
+"I am very satisfied with my purchase.",positive
+"The quality of the item is excellent.",positive
+"I love this product! Highly recommended.",positive
+"Unfortunately, the item arrived damaged.",negative
+"The customer service was terrible.",negative
+"This product is a waste of money.",negative
+"I regret buying this. Not worth it.",negative
